@@ -1,0 +1,8 @@
+3c7a3e42278b74253fb7ca8351c90ffb *DESCRIPTION
+248d41c12b245d4d3d6fb6bf0fe37abf *LICENSE
+889cf21992b85314214567fcb87dec7d *NAMESPACE
+9c73bff1acfe8c0f10ff602555278272 *R/checkDataQuality.R
+1940fbcff50bfd064a5fd08a46e1aae4 *data/crx.RData
+17b9d3a6ef744da5f136a8240c2850c0 *man/checkDataQuality.Rd
+fed1c205534cba49768235d76f57e79f *man/crx.Rd
+7b7620c7efbaad9588e1f442a6123cad *man/dataQualityR-package.Rd
